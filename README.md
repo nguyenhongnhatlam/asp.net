@@ -7,7 +7,7 @@
   
 +Giao Diện 2:
 
-  ![img](2.PNG)
+  ![img](d1.png)
   
   - Danh mục MV:<br>
   
