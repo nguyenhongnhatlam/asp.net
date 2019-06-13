@@ -1,0 +1,8 @@
+﻿Xin chào,
+Đây là thông tin người dùng vừa gửi đến trang:
+Tên:				##Name##
+Email:				##Email##
+Số Điện thoại:		##PhoneHome##
+Tài khoản:			##Email##
+Mật khẩu:			##ConfirmMatKhauAddress##
+Chú thích:			##Comments##
