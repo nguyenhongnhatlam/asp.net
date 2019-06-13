@@ -9,37 +9,36 @@
 
   ![img](d1.png)
   
-  - Danh mục MV:<br>
+  - Trang chủ:<br>
   
-    ![img](3.PNG)
+    ![img](a2.png)
+   - Nhấp đúp vào hình streammer <br>
+   ![img](a3.png)
+   
+  - sau khi nhấn vào hình streammer: <br>
+  ![img](a4.png)
     
-  - Danh mục Thông Tin Nhóm:<br>
+    chỗ này ta nhập mệnh giá card dt để donate cho idol của mình
   
-  ![img](10.PNG)
+   
+    
+  - Sang phần_điểm danh:<br>
+  
+  ![img](a1.png)
   
   - Danh mục Đăng nhập(gồm có phần đăng nhập và đăng kí cho các bạn chưa có tài khoản):<br>
-  - Ngoài ra còn có Bảng xếp hạng bài hát của nhóm nhạc con cưng của chúng ta trên thị trường âm nhạc trong và ngoài nước.
-  
-  ![img](5.PNG)
-  
-  + các bạn click vào nút đăng kí và nhập đầy đủ thông tin để đăng kí tài khoản
-  
-  ![img](6.PNG)
-  
-  + Đăng kí thành công tài khoản:
-  
-  ![img](7.PNG)
-  
-  + Nếu bạn không nhập đầy đủ thông tin thì hệ thống sẽ báo lỗi như hình phía dưới:
-  
-  ![img](9.PNG)
-  
-  - Chúng ta có thể xem Bảng xếp hạng của nhóm và chỉnh sửa(vd như: Cập nhật bài hát mới của nhóm,Xóa bài hát đã quá cũ,...)<br>
-  + cập nhật(Điền tên bài hát mới cần cập nhật rối nhấn INSERT)
-  + Xóa Bài hát(Điền tên bài hát cần xóa rồi nhấn DELETE)
+  + các bạn click vào nút đăng kí và nhập đầy đủ thông tin để đăng kí tài khoản <br>
  
-  ![img](8.PNG)
+ Đăng kí sau khi nhấn send <br>
   
-  - Đó là tất cả các thông tin bạn cần biết khi đăng nhập vào web đặc biệt dành cho ARMY!!!
-  - Các bạn còn chần chừ gì nữa? Đăng nhập vào cày view cho nhóm nào!!!</h3><br>
-  <h2>"Hãy Thể Hiện Mình Là 1 ARMY Chân Chính Nào!!!"</h2>
+  ![img](Untitled2.png)
+  
+  
+  
+  
+  + Đăng kí thành công tài khoản:<br>
+  
+  ![img](Untitled3.png)
+  
+ 
+  
