@@ -24,7 +24,7 @@
     
   - Sang phần_điểm danh:<br>
   
-  ![img](a1.png)
+  ![img](d1.png)
   
   - Danh mục Đăng nhập(gồm có phần đăng nhập và đăng kí cho các bạn chưa có tài khoản):<br>
   + các bạn click vào nút đăng kí và nhập đầy đủ thông tin để đăng kí tài khoản <br>
