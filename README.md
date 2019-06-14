@@ -33,7 +33,9 @@
   ![img](a2.png)
   
   Kéo xuống cuối trang click vào dòng chữ để xem những thành viên đã donate trong trang...
-  
+  ![img].(a6.png)
+   nhấn giới thiệu sẽ hiện 
+   ![img].(a8.png)
   
  
   
