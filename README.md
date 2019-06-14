@@ -23,7 +23,7 @@
   
   ![img](Untitled3.png)
   
-    sau khi đăng kí song ta nhấn điểm danh để trở lại và đăng nhập...
+  sau khi đăng kí song ta nhấn điểm danh để trở lại và đăng nhập...
     + đăng nhập tài khoản: <br>
     
    ![img](a1.png)
