@@ -9,12 +9,7 @@
 
   ![img](d1.png)
   
-  
-    chỗ này ta nhập mệnh giá card dt để donate cho idol của mình
-  
-   
-    
-  - Sang phần_điểm danh:<br>
+ - Sang phần_điểm danh:<br>
   
   ![img](d1.png)
   
