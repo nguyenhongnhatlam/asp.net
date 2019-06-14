@@ -26,7 +26,7 @@
     sau khi đăng kí song ta nhấn điểm danh để trở lại và đăng nhập...
     + đăng nhập tài khoản: <br>
     
-    ![img](a1.png)
+   ![img](a1.png)
     
    <h1>Đến trang đăng nhập <br>
   
