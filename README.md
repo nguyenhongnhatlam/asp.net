@@ -32,5 +32,8 @@
   
   ![img](a2.png)
   
+  Kéo xuống cuối trang click vào dòng chữ để xem những thành viên đã donate trong trang...
+  
+  
  
   
