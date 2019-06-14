@@ -32,7 +32,7 @@
   
   ![img](a2.png)
   
-  Kéo xuống cuối trang click vào dòng chữ để xem những thành viên đã donate trong trang...<br>
+ - Kéo xuống cuối trang click vào dòng chữ để xem những thành viên đã donate trong trang...<br>
   
   ![img].(a6.png)
   
