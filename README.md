@@ -50,6 +50,18 @@
  ![img](b2.png)
  
 - Giao diện trước khi thêm : <br>
+ ![img](c1.png)
+- Giao diện sau khi thêm : <br>
+ ![img](c2.png)
+ Quay lại nói 1 chút về trang đăng nhập:
+     - Nhấp đúp vào hình streammer <br>
+   ![img](a3.png)
+   
+  - sau khi nhấn vào hình streammer: <br>
+  ![img](a4.png)
+    chỗ này ta nhập mệnh giá card dt để donate cho idol của mình!!!
+    tks các bạn đã đến xem trang của mình. Goodbye!!
+
 
    
     
