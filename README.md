@@ -9,15 +9,7 @@
 
   ![img](d1.png)
   
-  - Trang chủ:<br>
   
-    ![img](a2.png)
-   - Nhấp đúp vào hình streammer <br>
-   ![img](a3.png)
-   
-  - sau khi nhấn vào hình streammer: <br>
-  ![img](a4.png)
-    
     chỗ này ta nhập mệnh giá card dt để donate cho idol của mình
   
    
