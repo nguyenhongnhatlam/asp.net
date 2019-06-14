@@ -44,6 +44,8 @@
  - Nhấn Danh sách khách hàng
  
    ![img](a8.png)
+* Thêm phần cập nhật khách hàng: click vào thêm khách hàng 
+   
     
   
  
