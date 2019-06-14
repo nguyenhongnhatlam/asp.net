@@ -45,6 +45,12 @@
  
    ![img](a8.png)
 * Thêm phần cập nhật khách hàng: click vào thêm khách hàng 
+ ![img](b1.png)
+  
+ ![img](b2.png)
+ 
+- Giao diện trước khi thêm : <br>
+
    
     
   
