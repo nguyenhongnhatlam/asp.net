@@ -32,13 +32,13 @@
   
   ![img](a2.png)
   
- - Kéo xuống cuối trang click vào dòng chữ để xem những thành viên đã donate trong trang...<br>
+ - Kéo xuống cuối trang để xem danh sách các thành viên donate <br>
   
-  ![img].(a6.png)
+  ![img](a6.png)
   
    nhấn giới thiệu sẽ hiện 
    
-   ![img].(a7.png)
+   ![img](a7.png)
     
   
  
