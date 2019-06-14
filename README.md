@@ -32,7 +32,8 @@
   
   ![img](a2.png)
   
- - Kéo xuống cuối trang để xem danh sách các thành viên donate <br>
+ - Kéo xuống cuối trang click vào dòng chữ xem danh sách các thành viên donate <br>
+ + Giao diện sẽ hiện như sau
   
   ![img](a6.png)
   
