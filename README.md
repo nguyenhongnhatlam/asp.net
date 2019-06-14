@@ -37,9 +37,13 @@
   
   ![img](a6.png)
   
-   nhấn giới thiệu sẽ hiện 
+ - Nhấn giới thiệu sẽ hiện 
    
    ![img](a7.png)
+   
+ - Nhấn Danh sách khách hàng
+ 
+   ![img](a8.png)
     
   
  
